@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHost", "AppHost\AppHost.csproj", "{A0C4210E-961B-4D8C-88DC-A7A18C213A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLShortener", "URLShortener\URLShortener.csproj", "{AEE8A9FB-4148-4F0F-A733-F145A11A8FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDefaults", "ServiceDefaults\ServiceDefaults.csproj", "{1F944C97-FECE-4440-A0B6-6F8B157A9A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0C4210E-961B-4D8C-88DC-A7A18C213A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C4210E-961B-4D8C-88DC-A7A18C213A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C4210E-961B-4D8C-88DC-A7A18C213A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C4210E-961B-4D8C-88DC-A7A18C213A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE8A9FB-4148-4F0F-A733-F145A11A8FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE8A9FB-4148-4F0F-A733-F145A11A8FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE8A9FB-4148-4F0F-A733-F145A11A8FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE8A9FB-4148-4F0F-A733-F145A11A8FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F944C97-FECE-4440-A0B6-6F8B157A9A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F944C97-FECE-4440-A0B6-6F8B157A9A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F944C97-FECE-4440-A0B6-6F8B157A9A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F944C97-FECE-4440-A0B6-6F8B157A9A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
